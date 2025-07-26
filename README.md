@@ -48,7 +48,7 @@ This system is built using modern technologies with a clean, RESTful API, making
 
 bash
 
-git clone https://github.com/durgaprasad-mokara/Bank-Lending-System.git
+git clone https://github.com/harikumar08/Assignment_nxt_wave/tree/main
 cd Bank-Lending-System
 
 
